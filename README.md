@@ -1,5 +1,4 @@
-# CMU-Net
-Towards More Accurate and Generalized Tiny Object Tracking: a Large-scale Benchmark and Superior Algorithm
+# CMU-Net:Towards More Accurate and Generalized Tiny Object Tracking: a Large-scale Benchmark and Superior Algorithm
 
 **The code and dataset will be released in the soon.**
 
