@@ -13,7 +13,7 @@
 
 ### Part of the visual video display
 
-<https://github.com/Gi-gigi/CMU-Net/assets/49682456/6803629d-7715-4d2f-ba7a-621e84cbce58>
+<!-- https://github.com/Gi-gigi/CMU-Net/assets/49682456/6803629d-7715-4d2f-ba7a-621e84cbce58>
 
 <https://github.com/Gi-gigi/CMU-Net/assets/49682456/c239bade-31bb-44db-8eee-14c0d2b1857d>
 
