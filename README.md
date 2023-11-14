@@ -4,7 +4,7 @@
 
 - **The code and dataset will be released in the soon.**
 
-- ***More comprehensive visual videos are accessible: [Google link](https://drive.google.com/file/d/1sLU90na7nlzqYqsuIhWlTxEBVxKWceJY/view?usp=drive_link)***
+<!--- ***More comprehensive visual videos are accessible: [Google link](https://drive.google.com/file/d/1sLU90na7nlzqYqsuIhWlTxEBVxKWceJY/view?usp=drive_link)***-->
 
 ***
 ## Abstract
