@@ -9,8 +9,6 @@
 ***
 ## Abstract
 
-
-
 ---
 
 ### Part of the visual video display
