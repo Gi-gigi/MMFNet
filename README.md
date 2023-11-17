@@ -15,7 +15,7 @@ https://github.com/Gi-gigi/MMFNet/assets/49682456/fc76d859-a7ea-4921-9273-baba44
 
 ## More comprehensive Visulaization Results.
 
-***More comprehensive visual videos are accessible: [Google link](https://drive.google.com/file/d/1cct8fJKL2N9hG3lXMfDmsFQ7Q_xsSn7R/view?usp=sharing)***
+<!--***More comprehensive visual videos are accessible: [Google link](https://drive.google.com/file/d/1cct8fJKL2N9hG3lXMfDmsFQ7Q_xsSn7R/view?usp=sharing)***-->
 
 ***
 ## Abstract
