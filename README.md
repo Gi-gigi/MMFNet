@@ -1,6 +1,6 @@
 <!--# Towards More Accurate Tiny Object Tracking: Benchmark and Algorithm-->
 
-## Note
+## Note: The code and dataset will be released in the soon.
 
 - **The code and dataset will be released in the soon.**
 
