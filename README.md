@@ -3,7 +3,7 @@
 
 ### Note: The Code will be released in the soon.
 
-***The datasets are available at [Badminton100K](https://drive.google.com/file/d/1UM8Lg7fzoQK822b2itSl-p1gWvTDfBvB/view?usp=sharing)***
+***The datasets are available at [Badminton100K](https://drive.google.com/file/d/1UM8Lg7fzoQK822b2itSl-p1gWvTDfBvB/view?usp=sharing) (PART)***
 
 ***
 
