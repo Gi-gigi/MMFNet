@@ -4,10 +4,11 @@
 
 ***The datasets are available at [Badminton100K](https://drive.google.com/file/d/1UM8Lg7fzoQK822b2itSl-p1gWvTDfBvB/view?usp=sharing)***
 
+***
+
 ### More comprehensive Visulaization Results.
 ***More comprehensive visual videos are accessible: [Videos](https://drive.google.com/file/d/1cct8fJKL2N9hG3lXMfDmsFQ7Q_xsSn7R/view?usp=sharing)***
 
-***
 **Visual display.**
 
 https://github.com/Gi-gigi/CMU-Net/assets/49682456/6803629d-7715-4d2f-ba7a-621e84cbce58
@@ -15,8 +16,6 @@ https://github.com/Gi-gigi/CMU-Net/assets/49682456/6803629d-7715-4d2f-ba7a-621e8
 https://github.com/Gi-gigi/MMFNet/assets/49682456/17923b84-f46f-477b-a18a-9b996029c429
 
 https://github.com/Gi-gigi/MMFNet/assets/49682456/fc76d859-a7ea-4921-9273-baba44aac5a9
-
-
 
 
 ***
