@@ -8,7 +8,7 @@
 ***More comprehensive visual videos are accessible: [Videos](https://drive.google.com/file/d/1cct8fJKL2N9hG3lXMfDmsFQ7Q_xsSn7R/view?usp=sharing)***
 
 ***
-**Visulaization Results.**
+**Visual display.**
 
 https://github.com/Gi-gigi/CMU-Net/assets/49682456/6803629d-7715-4d2f-ba7a-621e84cbce58
 
