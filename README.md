@@ -27,9 +27,10 @@ Despite the significant progress in tiny object tracking algorithms based on con
 
 ### Experiments
 
-| Syntax      | Description | Syntax      | Description |
-| ----------- | ----------- |-----------  | ----------- |
-| Header      | Title       | Header      | Title       |
-| Paragraph   | Text        |Paragraph    | Text        |
+|             | MMFNet(3 in 1 out) |    MMFNet(1 in 1 out)  | 
+| ----------- | ------------------ |------------------------| 
+|    ACC      |       96.91%       |         90.02%         |
+|    PRE      |       98.67%       |         96.33%         |
+|    REC      |       97.85%       |         92.44%         |
 
 
