@@ -28,7 +28,7 @@ Despite the significant progress in tiny object tracking algorithms based on con
 ### Experiments
 
 |             | MMFNet(MISO) |    MMFNet(SISO)  | 
-| ----------- | ------------------ |------------------------| 
+| :----:      |     :----:   |      :----:      | 
 |    ACC      |       96.91%       |         90.02%         |
 |    PRE      |       98.67%       |         96.33%         |
 |    REC      |       97.85%       |         92.44%         |
